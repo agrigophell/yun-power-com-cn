@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agrigophell.github.io/yun-power-com-cn/sitemap.xml
